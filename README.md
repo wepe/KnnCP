@@ -17,7 +17,7 @@
 
 ###TO DO
 
-- apply Eigen matrix instead of  " vector<vector<> > "
+- apply Eigen matrix instead of  ` vector<vector<> > `
 
 - task parallelism (mainly the `predict` method).
 - KDTree
